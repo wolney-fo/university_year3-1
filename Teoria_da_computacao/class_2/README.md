@@ -6,7 +6,7 @@ Construa um autômato finito determinístico que reconhece a seguinte linguagem:
 
 $L = \{w|w\text{ possui um número par de a's e um número ímpar de b's}\}$.
 
-![Preview](/doc/class_2-preview-1.gif)  
+![Preview](https://github.com/wolney-fo/university_year3-1/blob/main/Teoria_da_computacao/doc/class_2-preview-1.gif?raw=true)  
 `Teste usando: "aabababababaabbbababbabba"`
 
 ```bash
@@ -42,7 +42,7 @@ Construa um autômato finito determinístico que reconhece a seguinte linguagem:
 
 $L = \{w | w \text{ possui aa ou bb como subpalvra}\}$.
 
-![Preview](/doc/class_2-preview-2.gif)  
+![Preview](https://github.com/wolney-fo/university_year3-1/blob/main/Teoria_da_computacao/doc/class_2-preview-2.gif?raw=true)  
 `Teste usando: "baaba"`
 
 ```bash

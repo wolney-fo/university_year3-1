@@ -39,7 +39,7 @@ A saída contém um valor inteiro, correspondente ao fatorial de N.
 
 ### Meus resultados
 
-![Results](../../doc/result_class-1_ex1.png)
+![Results](/doc/result_class-1_ex1.png)
 
 
 <br><br>
@@ -72,7 +72,7 @@ Imprima o valor lido e, em seguida, a quantidade mínima de notas de cada tipo n
 
 ### Meus resultados
 
-![Results](../../doc/result_class-1_ex2.png)
+![Results](/doc/result_class-1_ex2.png)
 
 
 <br><br>
@@ -105,4 +105,4 @@ Imprima a mensagem conforme o exemplo fornecido, uma mensagem por linha, não es
 
 ### Meus resultados
 
-![Results](../../doc/result_class-1_ex3.png)
+![Results](/doc/result_class-1_ex3.png)

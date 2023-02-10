@@ -6,7 +6,7 @@ Atividades práticas passadas como exercícios no assunto de algoritmos visando 
 
 ## Screenshots
 
-![Screenshot](/../doc/result_class-2_ex1.png)
+![Screenshot](/doc/result_class-2_ex1.png)
 
 <br>
 
@@ -26,4 +26,4 @@ A entrada é composta de vários casos de testes que são encerrados quando se l
 
 Para cada caso de teste, deve-se imprimir somente a posição que o número n estaria posicionado no array. 
 
-![Examples](/../doc/examples_class-2_ex1.png)
+![Examples](/doc/examples_class-2_ex1.png)
