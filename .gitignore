@@ -1,0 +1,10 @@
+
+*.xml
+*.iml
+*.class
+*.Rproj
+.Rhistory
+.RData
+.idea/
+.Rproj
+.Rproj.user
