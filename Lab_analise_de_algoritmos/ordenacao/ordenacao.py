@@ -1,15 +1,17 @@
-def my_sort(list_):
+def my_sort(unsorted_list):
+    n = len(unsorted_list)
+    sorted_list = unsorted_list.copy()
+    
+    for i in range(1, n):
+        j = i - 1
+        key = sorted_list[i]
+        while j >= 0 and key < sorted_list[j]:
+            sorted_list[j+1] = sorted_list[j]
+            j -= 1
+        sorted_list[j+1] = key
+    
+    return sorted_list
 
-    if len(list_) <= 1:
-        return list_
-
-    sortedList = [None for _ in range(len(list_))]
-
-    for i in range(len(list_)):
-        toTheLeft = [x for x in list_ if x < list_[i]]
-        sortedList[len(toTheLeft)] = list_[i]
-
-    return sortedList
 	
 
 if __name__ == "__main__":
